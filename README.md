@@ -1,80 +1,109 @@
-# Anthony Ude 🚀
+# Anthony Ude
 
-**Senior Mobile Engineer & Product Designer**  
-Architecting battle-tested, high-performance Flutter applications that dominate in scale and user experience. 6+ years owning full product lifecycles — from strategic UI/UX vision in Figma to rock-solid, optimized code in production.
+**Full-Stack Developer · Web & Mobile**
+Building production-grade products end-to-end — React/Next.js on web, Flutter on mobile, Supabase/Firebase on the backend. I design in Figma too, so I ship from wireframe to production without handoff delays.
 
-I deliver apps that thrive under real-world pressure: lightning-fast loads, seamless real-time sync, bulletproof offline resilience, 99.9% crash-free rates, and intuitive designs that drive massive engagement.
+6+ years · 10+ production apps shipped · Remote-first
 
-### 💪 Core Expertise
-- **Flutter Mastery** → Advanced clean architecture, BLoC/Riverpod, custom animations, platform channels, plugin development  
-- **Product Design Dominance** → End-to-end UX strategy, design systems, micro-interactions, accessibility (WCAG), user research-driven flows  
-- **Performance Engineering** → Deep optimization (caching, lazy loading, isolate computing), profiling, memory management  
-- **Full-Stack Mobile Delivery** → Firebase ecosystem, Flask/Node.js backends, REST/GraphQL/WebSockets, CI/CD pipelines  
-- **Modern Practices** → Test-driven development (unit/widget/integration), code generation, modular monorepos, Agile leadership  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-ude-882b45263)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:somtochukwuanthony460@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--devs.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://anthony-devs.netlify.app)
 
-### 🔥 Proven Impact
-- Shipped **10+ production apps** with **99.9% crash-free sessions** across millions of installs  
-- Slashed load times by **35%** and reduced API latency from 900ms → 180ms  
-- Drove **40% higher task completion** and **30% increased activation** through UX redesigns  
-- Built enterprise-grade Figma design systems adopted cross-team → **50% faster engineering handoffs**  
-- Designed **60+ production screens** for flagship products with pixel-perfect fidelity  
+---
 
-### ⚡ Featured Projects
-- **Hattrick** → Real-time sports prediction platform (Flutter + Flask + Firebase)  
-  [View Code](https://github.com/anthony-devs/hattrick)
-- **Period Flow** → Offline-first health tracker with advanced local sync (Flutter + Hive + BLoC)  
-  [View Code](https://github.com/anthony-devs/period_flow)
-- **Afridam AI** → Next-gen AI mobile experience (Flutter + Flask + real-time processing)  
-- **Sports Prediction Engine** → High-accuracy football forecasting with live APIs (Python)  
-  [View Code](https://github.com/anthony-devs/sports_prediction)
-- **Our Space** → NASA-powered interactive solar system explorer (Flutter + Live APIs)  
-  [View Code](https://github.com/anthony-devs/our_space)
-- **This Is Nigeria** → Scalable news platform with admin CMS (Flutter + Flask)  
-  [View Code](https://github.com/anthony-devs/this_is_nigeria)
+## What I Build
 
-→ Extensive portfolio of Figma prototypes, case studies, and open-source contributions available on request.
+- **Web apps** — React, Next.js, TypeScript, Tailwind CSS, Supabase
+- **Mobile apps** — Flutter, Dart, BLoC, offline-first with Hive, Firebase
+- **Backends** — Node.js, Python/Flask, REST & GraphQL APIs, PostgreSQL
+- **AI-powered features** — Claude API integration, multi-model workflows
+- **Design** — Figma, design systems, prototyping, component libraries
 
-### 🛠️ Tech Arsenal
+---
+
+## Featured Projects
+
+### 🔬 DSCVR — AI-Powered Research Library
+A personal knowledge management app where users organize research into Categories → Topics → Materials (PDFs, notes, links, YouTube videos, canvases).
+
+**Key features:**
+- **Pinda AI** — context-aware AI assistant powered by the Claude API
+- **Parliament Fact-Check** — multiple AI models vote on factual accuracy before content is published publicly
+- **Discover page** — zero cold-start using Semantic Scholar, arXiv, Wikipedia & YouTube oEmbed APIs
+- **Figma-style sharing** — view, fork, and comment permissions via Supabase RLS
+
+`Next.js` `Flutter` `Supabase` `Claude API` `TypeScript` `PostgreSQL`
+
+---
+
+### 🏆 Hattrick — Sports Prediction Platform
+Real-time sports platform with match updates, user predictions, and push notifications.
+
+- Reduced app load times by **35%** through BLoC state management and Hive offline-first caching
+- Cut API response time from **900ms → 180ms** by optimizing backend queries
+- Designed onboarding flows that increased new-user activation by **30%**
+
+`Flutter` `Flask` `Firebase` `BLoC` `Hive` → [View Repo](https://github.com/anthony-devs/hattrick)
+
+---
+
+### 🌍 This Is Nigeria — Scalable News Platform
+News platform with admin CMS, real-time content updates, and offline reading support.
+
+`Flutter` `Flask` `Firebase` → [View Repo](https://github.com/anthony-devs/this_is_nigeria)
+
+---
+
+### 🪐 Our Space — NASA Solar System Explorer
+Interactive solar system explorer powered by NASA's live APIs.
+
+`Flutter` `REST APIs` → [View Repo](https://github.com/anthony-devs/our_space)
+
+---
+
+## Proven Impact
+
+| Metric | Result |
+|---|---|
+| App load time reduction | **35%** |
+| API response time | **900ms → 180ms** |
+| Crash-free session rate | **99.9%** |
+| User task completion improvement | **+40%** |
+| New-user activation improvement | **+30%** |
+| Dev handoff time reduction (design system) | **50%** |
+| Production screens delivered | **60+** |
+| Production apps shipped | **10+** |
+
+---
+
+## Tech Stack
+
+**Frontend & Mobile**
+
 ![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-State_Mgmt-4FC08D?style=flat-square&logo=riverpod&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-Architecture-FFFFFF?style=flat-square&logo=bloc)
-![Hive](https://img.shields.io/badge/Hive-Offline-First-FFCA28?style=flat-square&logo=hive&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-Local_DB-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Services-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-APIs-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Web-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Web-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**Backend & Database**
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Services-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Tooling**
+
+![Claude API](https://img.shields.io/badge/Claude_API-AI_Integration-CC785C?style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-Visuals-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🧠 Additional Skills
-- **Advanced State Management** (Riverpod, Provider, GetX)  
-- **Animations & Motion Design** (Rive, Flutter Animations, Lottie)  
-- **Testing Mastery** (Unit, Widget, Integration, Golden Tests)  
-- **Accessibility & Inclusive Design** (WCAG compliance, dynamic type, VoiceOver)  
-- **App Store Optimization & Release Management** (Fastlane, Play Console)  
-- **Cross-Platform Strategy** (iOS/Android parity, responsive layouts)  
-- **Agile Leadership** (Sprint planning, cross-functional collaboration)
+---
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=anthony-devs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-devs&layout=compact&theme=tokyonight&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anthony-devs&theme=tokyonight&hide_border=true)
-
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ude-somtochukwu-882b45263)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anthonyiso460@gmail.com)
-
-Open to senior mobile engineering, lead product design, or hybrid roles at top-tier companies.  
-Let's ship world-class products. 💪
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthony-devs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/anthony-devs)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-devs&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anthony-devs)
