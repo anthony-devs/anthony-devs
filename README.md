@@ -7,7 +7,7 @@ Building production-grade products end-to-end — React/Next.js on web, Flutter 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-ude-882b45263)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:somtochukwuanthony460@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-anthony--devs.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://anthony-devs.netlify.app)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anthony--devs.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://anthony-devs.netlify.app) -->
 
 ---
 
