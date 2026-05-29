@@ -1,107 +1,100 @@
 # Anthony Ude
 
-**Full-Stack Developer · Web & Mobile**
-Building production-grade products end-to-end — React/Next.js on web, Flutter on mobile, Supabase/Firebase on the backend. I design in Figma too, so I ship from wireframe to production without handoff delays.
+**I build things that work. At scale.**
 
-6+ years · 10+ production apps shipped · Remote-first
+I'm an engineer. I design systems, write production code, ship mobile and web products, integrate AI, and handle the backend infrastructure that holds it all together. I've done this across applications, for real users, with measurable outcomes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-ude-882b45263)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:somtochukwuanthony460@gmail.com)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-anthony--devs.netlify.app-000000?style=flat-square&logo=netlify&logoColor=white)](https://anthony-devs.netlify.app) -->
+6+ years · 10+ production apps · Remote-first
 
----
-
-## What I Build
-
-- **Web apps** — React, Next.js, TypeScript, Tailwind CSS, Supabase
-- **Mobile apps** — Flutter, Dart, BLoC, offline-first with Hive, Firebase
-- **Backends** — Node.js, Python/Flask, REST & GraphQL APIs, PostgreSQL
-- **AI-powered features** — Claude API integration, multi-model workflows
-- **Design** — Figma, design systems, prototyping, component libraries
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anthony--ude-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anthony-ude-882b45263)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:somtochukwuanthony460@gmail.com)
 
 ---
 
-## Featured Projects
+##
 
-### 🔬 DSCVR — AI-Powered Research Library
-A personal knowledge management app where users organize research into Categories → Topics → Materials (PDFs, notes, links, YouTube videos, canvases).
+I take an idea and transform it into a product. That means:
 
-**Key features:**
-- **Pinda AI** — context-aware AI assistant powered by the Claude API
-- **Parliament Fact-Check** — multiple AI models vote on factual accuracy before content is published publicly
-- **Discover page** — zero cold-start using Semantic Scholar, arXiv, Wikipedia & YouTube oEmbed APIs
-- **Figma-style sharing** — view, fork, and comment permissions via Supabase RLS
+- Architecting the data model before anyone writes a line of code
+- Building the API, the frontend, and the mobile app without three separate teams
+- Designing the UI in Figma and implementing it pixel-for-pixel
+- Integrating AI features that aren't gimmicks context-aware, multi-model, production-ready
+- Optimizing the things that hurt users: load times, crash rates, activation dropoffs
+
+I don't hand off. I don't block on designers. I ship.
+
+---
+
+## Numbers that matter
+
+| What | Result |
+|---|---|
+| API response time optimization | **900ms → 180ms (78% reduction)** |
+| App load time | **35% faster** |
+| Crash-free session rate | **99.9%** |
+| User activation improvement | **+30%** |
+| Task completion improvement | **+40%** |
+| Design-to-dev handoff time | **Eliminated — I do both** |
+| Production screens shipped | **60+** |
+| Production apps in the wild | **10+** |
+
+---
+
+## What I'm building now
+
+### DSCVR, AI-Powered Research Library
+A knowledge management system for researchers, students, and professionals. Not another note-taking app.
+
+**The interesting parts:**
+- **Parliament Fact-Check** multiple AI models vote on the factual accuracy of content before it goes public. Disagreements surface. Consensus required.
+- **Pinda AI** a context-aware assistant that knows what's in your library, not just what's in the prompt
+- **Zero cold-start** the Discover page is populated on day one via Semantic Scholar, arXiv, Wikipedia, and YouTube oEmbed APIs
+- **Figma-style sharing** view, fork, and comment permissions enforced at the row level via Supabase RLS
 
 `Next.js` `Flutter` `Supabase` `Claude API` `TypeScript` `PostgreSQL`
 
 ---
 
-### 🏆 Hattrick — Sports Prediction Platform
-Real-time sports platform with match updates, user predictions, and push notifications.
+## Selected work
 
-- Reduced app load times by **35%** through BLoC state management and Hive offline-first caching
-- Cut API response time from **900ms → 180ms** by optimizing backend queries
-- Designed onboarding flows that increased new-user activation by **30%**
+### Hattrick — Sports Prediction Platform
+Real-time predictions, match data, and push notifications. Built the whole thing: Flutter frontend, Flask backend, Firebase infra.
 
-`Flutter` `Flask` `Firebase` `BLoC` `Hive` → [View Repo](https://github.com/anthony-devs/hattrick)
+- API response time: **900ms → 180ms**
+- App load time: **-35%** via BLoC + Hive offline-first architecture
+- New-user activation: **+30%** through redesigned onboarding
 
----
-
-### 🌍 This Is Nigeria — Scalable News Platform
-News platform with admin CMS, real-time content updates, and offline reading support.
-
-`Flutter` `Flask` `Firebase` → [View Repo](https://github.com/anthony-devs/this_is_nigeria)
+`Flutter` `Flask` `Firebase` `BLoC` `Hive` → [Repo](https://github.com/anthony-devs/hattrick)
 
 ---
 
-### 🪐 Our Space — NASA Solar System Explorer
-Interactive solar system explorer powered by NASA's live APIs.
+### This Is Nigeria — News Platform
+Admin CMS, real-time content pipeline, offline reading. Scaled content delivery without scaling complexity.
 
-`Flutter` `REST APIs` → [View Repo](https://github.com/anthony-devs/our_space)
-
----
-
-## Proven Impact
-
-| Metric | Result |
-|---|---|
-| App load time reduction | **35%** |
-| API response time | **900ms → 180ms** |
-| Crash-free session rate | **99.9%** |
-| User task completion improvement | **+40%** |
-| New-user activation improvement | **+30%** |
-| Dev handoff time reduction (design system) | **50%** |
-| Production screens delivered | **60+** |
-| Production apps shipped | **10+** |
+`Flutter` `Flask` `Firebase` → [Repo](https://github.com/anthony-devs/this_is_nigeria)
 
 ---
 
-## Tech Stack
+### Our Space — NASA Solar System Explorer
+Interactive solar system explorer. Live planetary data from NASA APIs, rendered in Flutter.
 
-**Frontend & Mobile**
+`Flutter` `REST APIs` → [Repo](https://github.com/anthony-devs/our_space)
 
-![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Web-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Expert-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
-**Backend & Database**
+## Stack
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Expert-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Services-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Backend-000000?style=flat-square&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Web & Mobile**
+`React` `Next.js` `TypeScript` `Tailwind CSS` `Flutter` `Dart`
 
-**AI & Tooling**
+**Backend & Data**
+`Node.js` `Flask` `Django` `PostgreSQL` `Supabase` `Firebase`
 
-![Claude API](https://img.shields.io/badge/Claude_API-AI_Integration-CC785C?style=flat-square)
-![Figma](https://img.shields.io/badge/Figma-Expert-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
+**AI & Systems**
+`Claude API` `Multi-model workflows` `API design` `System design`
+
+**Design & Infrastructure**
+`Figma` `Design systems` `Docker` `AWS` `Git`
 
 ---
 
